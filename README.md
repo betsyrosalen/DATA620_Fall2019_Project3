@@ -22,7 +22,7 @@ _Source: Natural Language Processing with Python, exercise 6.10.2._
 
 Please check out the Kanban Board project on the "[Projects](https://github.com/betsyrosalen/DATA620_Fall2019_Project3/projects)" tab in this repo in GitHub and click on "[DATA 620 Fall 2019 Project 3](https://github.com/betsyrosalen/DATA620_Fall2019_Project3/projects/1)".  I suggest we use this to help organize the distribution of tasks and keep track of who is working on what.  There are basic instructions about how to use the project board in the project itself on the left side, so check it out!  
 
-**Please create a new card to let the group know what you are working on.**.  
+**Please create a new card to let the group know what you are working on.**
 
 **Questions and issues** can be added to the [Issues](https://github.com/betsyrosalen/DATA620_Fall2019_Project3/issues) tab in this repo.
 
