@@ -1,7 +1,8 @@
 # DATA620_Fall2019_Project3
-##### Class Project for CUNY SPS MSDS DATA 620 Fall 2019
+##### Group Project for CUNY SPS MSDS DATA 620 Fall 2019
+##### Baron Curtin, Heather Geiger, Mikhail Groysman, Betsy Rosalen
 
-For this project, please work with the entire class as one collaborative group! Your project should be submitted (as a Jupyter Notebook via GitHub) by end of the due date. The group should present their code and findings in our meetup.
+For this project, please work as a collaborative group! Your project should be submitted (as a Jupyter Notebook via GitHub) by end of the due date. The group should present their code and findings in our meetup.
 
 _The ability to be an effective member of a virtual team is highly valued in the data science job market._
 
@@ -30,36 +31,4 @@ There are basically two ways to contribute to the repository.
 
 1. If you are a collaborator, you can make changes and commit them directly to the repo. If you want to be a collaborator let me know and I will add you.
 2. If you are not a collaborator, you can fork the repo, make changes to your forked version and submit a pull request that one of the collaborators will need to approve and merge with the master branch repo.  
-
-If you are not familiar with how to use GitHub please see the links below for lots of great tutorials and info.  I particularly recommend [this video](https://www.youtube.com/watch?v=yr6IzOGoMsQ) to understand a basic GitHub workflow.
-
-
-## Slack channel communication
-
-Further communication among class members may also be found at https://cuny-sps-msds.slack.com in the #data620 channel.  
-
-You can join the workspace at this link:  
-https://join.slack.com/t/cuny-sps-msds/shared_invite/enQtNTMxMjg0NDMxNzMwLWExYjliNjY3YWYyYmRkMDIzYzI4YzVhOTQ3OTk3MzA4ZTlhMjJjYWY3ODJhNWE3MmFiYzgwZWM4NGViNWUyY2U
-
-
-## Working in Github
-
-Github is a web based graphical interface based off of Git: a command line tool for version control. If you're new to Github, learn more through the links below!
-
-The easiest way to use GitHub is probably with their desktop program [GitHub Desktop](https://desktop.github.com/).  I highly recommend this if you are new and just need to figure out how to use Git in a hurry for this project.
-
-For beginners, start here: [Good explanation of what GitHub is for](https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/)
-
-And then here: [Basic GitHub Website Instructions](https://guides.github.com/activities/hello-world/)
-
-Here is a great [Github fork and pull request video tutorial](https://www.youtube.com/watch?v=yr6IzOGoMsQ) that goes through a basic workflow in GitHub.
-
-Another source for beginners: [Happy Git and GitHub for the useR](http://happygitwithr.com/)
-
-Video from GitHub: [GitHub for Beginners](https://resources.github.com/webcasts/GitHub-for-beginners/?utm_source=announcement&utm_medium=email&utm_campaign=gh-for-beginners-follow-up&elqTrackId=5e3f26814be04d1f81c4865816946a24&elq=384f5c0a35964e25a0108bbfbd78b5b3&elqaid=424&elqat=1&elqCampaignId=165)
-
-This tutorial: [Try Git](https://try.github.io/levels/1/challenges/1) gives a good explanation of the steps to contributing to a GitHub repo and hands on experience with using Git in the command prompt. Even if you want to use the GitHub website or GitHub Desktop, it will help you understand what the various terms mean.
-
-If you're already acquainted with the basics, [Github provides tons of training videos on advanced topis on YouTube](https://www.youtube.com/user/GitHubGuides/videos).
-
 
