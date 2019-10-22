@@ -32,3 +32,4 @@ There are basically two ways to contribute to the repository.
 1. If you are a collaborator, you can make changes and commit them directly to the repo. If you want to be a collaborator let me know and I will add you.
 2. If you are not a collaborator, you can fork the repo, make changes to your forked version and submit a pull request that one of the collaborators will need to approve and merge with the master branch repo.  
 
+**Preferably each collaborator should work in a separate branch.**
