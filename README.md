@@ -36,7 +36,10 @@ If you are not familiar with how to use GitHub please see the links below for lo
 
 ## Slack channel communication
 
-Further communication among class members may also be found at https://cuny-sps-msds.slack.com in the #data620 channel.  You can join the workspace at this link: https://join.slack.com/t/cuny-sps-msds/shared_invite/enQtNTMxMjg0NDMxNzMwLWExYjliNjY3YWYyYmRkMDIzYzI4YzVhOTQ3OTk3MzA4ZTlhMjJjYWY3ODJhNWE3MmFiYzgwZWM4NGViNWUyY2U
+Further communication among class members may also be found at https://cuny-sps-msds.slack.com in the #data620 channel.  
+
+You can join the workspace at this link:  
+https://join.slack.com/t/cuny-sps-msds/shared_invite/enQtNTMxMjg0NDMxNzMwLWExYjliNjY3YWYyYmRkMDIzYzI4YzVhOTQ3OTk3MzA4ZTlhMjJjYWY3ODJhNWE3MmFiYzgwZWM4NGViNWUyY2U
 
 
 ## Working in Github
